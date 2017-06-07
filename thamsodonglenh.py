@@ -17,12 +17,12 @@
 
 #Comment trong Python
 #Comment tren 1 dong #
-print "Hello Python" 
+# print "Hello Python" 
 #Comment tren nhieu dong
-print "Hello Python"
-"""Demo 
-Demo 2""" 
+# print "Hello Python"
+# """Demo 
+# Demo 2""" 
 
-import sys; x = "foo"; sys.stdout.write(x + '\n')
+# import sys; x = "foo"; sys.stdout.write(x + '\n')
 
 

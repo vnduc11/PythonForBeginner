@@ -23,9 +23,7 @@ print my_list.index('Lich su')
 my_list.insert(1,'Hoa hoc')
 
 #Dao nguoc thu tu
-
 my_list.reverse()
-
 print my_list
 
 #Sort theo thu tu

@@ -1,16 +1,5 @@
-var1 = 'Python Programmming'
+# -*- coding: utf8 -*-
 
-print var1[2]
-print var1[1:4]
+my_str = u'Đây là python'
 
-var2 = var1
-
-print "Update String: ", var1[:7] + 'Python'
-
-print 4*var1
-
-print "Ten toi la %s va toi nang %d kg" % ('Duc', 75)
-
-var1 = "toi la ai"
-
-print var1.upper()
+print my_str , len(my_str), type(my_str)

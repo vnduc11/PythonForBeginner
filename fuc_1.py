@@ -1,7 +1,9 @@
-def tinhtong(x1, x2):
-    #Tinh tong 2 so
-    tong = x1 + x2
-    return tong
+def printinfo(thamso, *vartuple):
+    "In mot tham so da tuyen"
+    print 'Ket qua: '
+    print thamso
+    for var in vartuple:
+        print var
+    return
 
-x1,x2 = 20, 30
-print 'Tong cua 2 so la: ', tinhtong(x1,x2)
+printinfo(20)
